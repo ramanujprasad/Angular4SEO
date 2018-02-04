@@ -21,4 +21,4 @@ cd Angular4SEO
 
 ## How does it looks like?
 
-![Design Image](https://github.com/ramanujprasad/Angular4SEO/blob/master/src/assets/images/SEOdemo.PNG)
+![Design Image](https://github.com/ramanujprasad/Angular4SEO/blob/master/src/assets/images/SEOdemo.png)
