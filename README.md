@@ -1,4 +1,4 @@
-# Angular 4 SEO Starter Template
+# Angular 4 SEO Demo App
 
 ## Making your angular app SEO friendly?
 By default, Angular apps are not search engine friendly. If you view the page source in a browser of a regular Angular app, it will only show what's inside the regular index.html -- the infamous loading.. content. To fix this, we need the app to be rendered on a server and then displayed to the client. This way, your content for each page (each component) is spit out for the browser and that lovely Googlebot to see.
@@ -23,6 +23,6 @@ cd Angular4SEO
 
 ![Design Image](https://github.com/ramanujprasad/Angular4SEO/blob/master/src/assets/images/SEOdemo.png)
 
-## Published URL
+## Published URL of the application
 
 https://ramanujprasad.github.io/Angular4SEO/
